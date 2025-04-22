@@ -1,38 +1,38 @@
 # Personal-Finance-tracker
 This is a Project based on Personal Finance Tracker with spending insights.
 # Objectives
-Spending Insights (Short & Point-Wise)
+1.Spending Insights (Short & Point-Wise)
 
-Tracks spending by category
+2.Tracks spending by category
 
-Alerts on category limit breaches
+3.Alerts on category limit breaches
 
-Shows monthly expense trends
+4.Shows monthly expense trends
 
-Highlights top spending areas
+5.Highlights top spending areas
 
-Suggests savings opportunities
+6.Suggests savings opportunities
 
-Visualizes needs vs wants ratio
+7.Visualizes needs vs wants ratio
 
 # Requirements
 C++ compiler
 
 # Features
-Add income and expense entries
+1.Add income and expense entries
 
-Categorize transactions (e.g., Food, Rent, Travel)
+2.Categorize transactions (e.g., Food, Rent, Travel)
 
-Input validation for date, amount, and category
+3.Input validation for date, amount, and category
 
-View all transactions history
+4.View all transactions history
 
-Display current balance
+5.Display current balance
 
-Monthly financial summary
+6.Monthly financial summary
 
-Spending insights and visual reports
+7.Spending insights and visual reports
 
-Set and monitor category spending limits
+8.Set and monitor category spending limits
 
 User-friendly and menu-driven interface
